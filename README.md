@@ -25,7 +25,7 @@ My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berke
 🎨 HTML, CSS, JS (Node, Stimulus, React) <br>
 ⚙️ SQL, mySQL, PostGreSQL
 
-📫 How to reach me (please do!)
-instagram -  @louisbemberg
-linkedin - /louisbemberg
-email - louis "dot" bemberg @gmail.com (better luck next time, spam bots!)
+## How to reach me 📫 (please do!)
+instagram -  @louisbemberg <br>
+linkedin - /louisbemberg <br>
+email - louis "dot" bemberg @gmail.com (better luck next time, spam bots!) <br>
