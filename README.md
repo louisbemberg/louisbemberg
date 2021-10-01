@@ -20,8 +20,8 @@ My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berke
 🇩🇪 Intermediate <br>
 
 ## How I speak to machines 🤖
-💎 Ruby, Ruby on Rails, RSpec <br>
-🐍 Python, Jupyter Notebooks, + Data Science & ML Packages <br>
+💎 [Web&FullStack Development] Ruby, Ruby on Rails, RSpec <br>
+🐍 [Data science & ML] Python, Jupyter Notebooks, + Data Science & ML Packages <br>
 🎨 HTML, CSS, JS (Node, Stimulus, React) <br>
 ⚙️ SQL, mySQL, PostGreSQL
 
