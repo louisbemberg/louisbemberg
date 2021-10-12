@@ -1,5 +1,5 @@
 ## Hi There, thanks for swinging by! 
-My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science.
+My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science. Previously, I worked as a Fullstack web developer with a preference for back-end.
 
 ![Waving Gif](https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif)
 
