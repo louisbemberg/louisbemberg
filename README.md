@@ -1,5 +1,5 @@
 ## Hi There, thanks for swinging by! 
-My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science. Previously, I worked as a Fullstack web developer with a preference for back-end.
+My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science while maintaining my passion for software engineering. Previously, I worked as a Fullstack web developer with a preference for back-end.
 
 ![Waving Gif](https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif)
 
@@ -11,7 +11,7 @@ My name's **Louis**. I'm currently a Master of Engineering student at U.C. Berke
 💻 Learned how to code, and instantly fell in ♥️ with it  <br>
 🚘 Became a lead teacher at Le Wagon, Europe's #1 coding school in Data Science & Web Development<br>
 🐻 Started a master's at U.C. Berkeley to merge my love with coding together with my knowledge of optimization, statistics and analytics<br>
-❓ The next step is yet to find out! I'm actively looking for opportunities to put my skills to good use in the fields of software engineering, management & strategic consulting, product / project management, web development, or any industry that could benefit from a deep understanding of its data. **Let's talk! :)**<br>
+❓ The next step is yet to find out! I'm actively looking for opportunities to put my skills to good use in the fields of software engineering, management & strategic consulting, product / project management, web development, or any industry that could benefit from a deep understanding of its data or a few good lines of code. **Let's talk! :)**<br>
 
 ## How I speak to humans 🗣
 🇨🇭🇫🇷 Native <br>
